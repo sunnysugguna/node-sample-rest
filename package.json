@@ -1,0 +1,23 @@
+{
+  "name": "sample-rest",
+  "version": "1.0.0",
+  "description": "sample rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnysugguna/node-sample-rest.git"
+  },
+  "author": "harish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnysugguna/node-sample-rest/issues"
+  },
+  "homepage": "https://github.com/sunnysugguna/node-sample-rest#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}

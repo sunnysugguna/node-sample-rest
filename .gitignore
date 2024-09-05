@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Environment variables
+.env
+
+# Build directories
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Coverage reports
+coverage/
+
+# npm debug file
+npm-debug.log*
+
+# Yarn integrity file
+.yarn-integrity
+
+# Storybook static files
+.storybook-static/
